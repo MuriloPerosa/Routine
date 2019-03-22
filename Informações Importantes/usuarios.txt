@@ -1,0 +1,42 @@
+Usuários:
+
+nome: Usuário 1
+email: usuario1@usr.com
+senha: usuario1
+
+nome: Usuário 2
+email: usuario2@usr.com
+senha: usuario2
+
+nome: Usuário 3
+email: usuario3@usr.com
+senha: usuario3
+
+nome: Usuário 4
+email: usuario4@usr.com
+senha: usuario4
+
+nome: Usuário 5
+email: usuario5@usr.com
+senha: usuario5
+
+nome: Usuário 6
+email: usuario6@usr.com
+senha: usuario6
+
+nome: Usuário 7
+email: usuario7@usr.com
+senha: usuario7
+
+nome: Usuário 8
+email: usuario8@usr.com
+senha: usuario8
+
+nome: Usuário 9
+email: usuario9@usr.com
+senha: usuario9
+
+
+nome: Usuário 10
+email: usuario10@usr.com
+senha: usuario10
